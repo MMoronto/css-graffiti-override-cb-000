@@ -1,4 +1,4 @@
-/* write your override styles here */
+/* write your override styles here 
 #wall .tag-1 { 
   display: none; 
 }
@@ -25,4 +25,4 @@ body #wall div.parent div:last-child #tag-6 {
 
 body #wall div.parent div:first-child > #tag-7.slick {
   display: none;
-}
+}*/
